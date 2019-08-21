@@ -36,3 +36,5 @@ cd fonts
 sudo ./install.sh
 ```
 最后再去终端修改字体及OK啦。
+
+<!--test-->
