@@ -1,7 +1,0 @@
-## 安装msf
-
-很简单的一条命令，就可以直接安装
-
-```
-curl https://raw.githubusercontent.com/rapid7/metasploit-omnibus/master/config/templates/metasploit-framework-wrappers/msfupdate.erb > msfinstall && chmod 755 msfinstall && ./msfinstall
-```
