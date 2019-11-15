@@ -37,3 +37,10 @@ sudo apt-get install curl
 # 使用官网脚本安装
 curl -s https://get.docker.com/ | sudo sh
 ```
+docker的启动停止
+```shell
+sudo service docker stop
+sudo service docker start
+sudo service docker restart
+
+```
