@@ -22,3 +22,18 @@ The following package was automatically installed and is no longer required:
   libopts25
 Use 'sudo apt autoremove' to remove it.
 ```
+## 安装docker
+
+```shell
+# ubuntu 官方仓库提供了Docker的稳定版本
+sudo apt-get update
+sudo apt-get install docker.io
+```
+或者使用官网的脚本安装
+```shell
+# 安装curl
+sudo apt-get update
+sudo apt-get install curl
+# 使用官网脚本安装
+curl -s https://get.docker.com/ | sudo sh
+```
