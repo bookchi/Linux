@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-23T07:18:31.577Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="2tBuGmILbypNTww2UfC-" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-24T08:14:01.366Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="hRGFpODylv_GrRYTmFKT" version="24.7.1" type="github">
   <diagram name="第 1 页" id="gHQ__axWDKVjUMxfi_Kf">
     <mxGraphModel dx="1451" dy="956" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -829,10 +829,10 @@
         <mxCell id="SNh3bUtlOjAXT0BTJsDU-12" value="&lt;font color=&quot;#009900&quot;&gt;filter malicious code&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="964.3199999999999" y="4435" width="148.66" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="SNh3bUtlOjAXT0BTJsDU-13" value="The First Install" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="SNh3bUtlOjAXT0BTJsDU-13" value="" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="723" y="3823" width="650" height="408" as="geometry" />
         </mxCell>
-        <mxCell id="SNh3bUtlOjAXT0BTJsDU-14" value="Future Install" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="SNh3bUtlOjAXT0BTJsDU-14" value="" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="723" y="4262" width="538" height="330" as="geometry" />
         </mxCell>
         <mxCell id="SNh3bUtlOjAXT0BTJsDU-15" value="" style="endArrow=none;html=1;rounded=0;dashed=1;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1">
@@ -840,6 +840,12 @@
             <mxPoint x="973" y="4175" as="sourcePoint" />
             <mxPoint x="1152.9999999999998" y="4175" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="SNh3bUtlOjAXT0BTJsDU-17" value="install before&amp;nbsp;&lt;div&gt;security check&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="690.34" y="3831" width="148.66" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="SNh3bUtlOjAXT0BTJsDU-18" value="install after&amp;nbsp;&lt;div&gt;security check&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="683.34" y="4270" width="148.66" height="22" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
